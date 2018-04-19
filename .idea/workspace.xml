@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f14a3f15-66d9-416d-90d9-6a8090c2831e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LISTAS CON ESTILO.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -38,11 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SEGUNDO CSS.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SEGUNDO CSS.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SEGUNDO CSS.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LISTAS CON ESTILO.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LISTAS CON ESTILO.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="582">
+              <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -74,6 +85,7 @@
         <option value="$PROJECT_DIR$/imagenes/probando.js" />
         <option value="$PROJECT_DIR$/PRIMER EJERCICIO CSS 2018.html" />
         <option value="$PROJECT_DIR$/SEGUNDO CSS.html" />
+        <option value="$PROJECT_DIR$/LISTAS CON ESTILO.html" />
       </list>
     </option>
   </component>
@@ -241,12 +253,12 @@
       <workItem from="1492618911126" duration="2289000" />
       <workItem from="1493223827279" duration="2433000" />
       <workItem from="1493901029254" duration="777000" />
-      <workItem from="1524137262548" duration="1730000" />
+      <workItem from="1524137262548" duration="3335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15145000" />
+    <option name="totallyTimeSpent" value="16750000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -564,6 +576,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTAS CON ESTILO.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
           <folding />
         </state>
       </provider>
